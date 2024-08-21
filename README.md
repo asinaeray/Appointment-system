@@ -1,16 +1,16 @@
-# Randevu Sistemi
+# Appointment System
 
-Bu proje, PHP ve MySQL kullanarak oluşturulmuş basit bir randevu sistemini içermektedir. Kullanıcıların randevu alabileceği, randevularını görüntüleyebileceği ve yönetebileceği bir uygulamadır.
+This project is a simple appointment system created using PHP and MySQL. It allows users to schedule, view, and manage appointments.
 
-## Özellikler
+## Features
 
-- Kullanıcı kaydı ve giriş
-- Randevu oluşturma
-- Randevu görüntüleme
-- Randevu silme
-- Yönetim paneli (Opsiyonel)
+- User registration and login
+- Appointment creation
+- Appointment viewing
+- Appointment deletion
+- Admin panel (Optional)
 
-## Teknolojiler
+## Technologies
 
 - PHP
 - MySQL
@@ -18,8 +18,8 @@ Bu proje, PHP ve MySQL kullanarak oluşturulmuş basit bir randevu sistemini iç
 - CSS
 - JavaScript
 
-## Kurulum
+## Setup
 
-1. **Proje Dosyalarını İndirin:**
+1. **Clone the Project Files:**
    ```bash
-   git clone https://github.com/kullanici_adi/randevu-sistemi.git
+   git clone https://github.com/your_username/appointment-system.git
